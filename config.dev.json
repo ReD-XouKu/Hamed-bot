@@ -36,7 +36,7 @@
     "hideNotiMessage": true
   },
   "adminBot": [
-    "61555393416824",
+    "61551808319261",
     "",
     "",
     "",
@@ -48,11 +48,11 @@
       "",
       "",
       "",
-      "100075127191325"
+      "61551808319261"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "BuLmA",
+  "nickNameBot": "土Sɘŋtɩŋɘɭɭɘ プライム",
   "prefix": "-",
   "database": {
     "type": "sqlite",
